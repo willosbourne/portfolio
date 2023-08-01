@@ -1,3 +1,7 @@
+<script>
+    export const prerender = true;
+</script>
+
 <h1 class="font-mono text-3xl">Hey<br />It's Will Osbourne</h1>
 <p>
     I'm still working on this site,

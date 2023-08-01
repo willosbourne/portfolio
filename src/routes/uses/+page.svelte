@@ -1,3 +1,7 @@
+<script>
+    export const prerender = true;
+</script>
+
 <h1 class="font-mono text-2xl">/Uses</h1>
 <ul>
     <li>14" M1 Pro Macbook Pro (work provided)</li>

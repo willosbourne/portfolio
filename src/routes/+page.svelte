@@ -1,2 +1,7 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<h1 class="font-mono text-3xl">Hey<br />It's Will Osbourne</h1>
+<p>
+    I'm still working on this site,
+    visit <a class="text-blue-600" href="https://willo.dev">willo.dev</a> to see a casual site,
+    or checkout <a class="text-blue-600" href="https://willosbourne.com">willosbourne.com</a>
+    for a horribly out of date portfolio.
+</p>

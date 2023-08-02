@@ -3,5 +3,18 @@
 @tailwind utilities;
 
 div {
-    border: 1px dotted black;
+    /*border: 1px dotted black;*/
+}
+
+.word-accent > span::after {
+    display: block;
+    height: 10px;
+    position: relative;
+    background: #9a43eb;
+    content: "";
+    width: 100%;
+    bottom: 16px;
+    z-index: -1;
+    transition: transform 0.1s ease 0s;
+    transform: skew(-46deg) rotate(-3deg) scaleX(1);
 }
